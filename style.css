@@ -18,7 +18,7 @@ body {
 
 .grid-square {
     /* Style for each individual grid square */
-    background-color: #eee;
+    background-color: rgba(0, 0, 0, 0.1);
     border: 1px solid #ccc;
     box-sizing: border-box; /* Include padding and border in the element's total width and height */
     transition: background-color 0.1s ease; /* Adds a smooth color transition */
